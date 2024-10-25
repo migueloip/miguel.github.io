@@ -214,7 +214,7 @@ var ParticlePool = (function() {
         context.font = "30px Arial";
         context.fillStyle = "#fff";
         context.textAlign = "center";
-        context.fillText("Buenas noches, Coni :)", canvas.width / 2, canvas.height / 2);
+        context.fillText("Buenas noches, Kitty :)", canvas.width / 2, canvas.height / 2);
     }
 
     function onResize() {
